@@ -1,0 +1,8 @@
+.contact__person {
+	font-size: 21px;
+	background-color: aliceblue;
+	color: black;
+	padding: 14px;
+	cursor: pointer;
+	margin: 21px;
+}

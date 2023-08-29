@@ -1,0 +1,13 @@
+.contact__container {
+	border-spacing: 14px;
+}
+
+.contact__heading {
+	font-size: 28px;
+	border-bottom: 2px solid white;
+}
+
+.contact__title {
+	font-size: 21px;
+	border-bottom: 1px solid white;
+}
